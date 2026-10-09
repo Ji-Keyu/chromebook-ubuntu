@@ -73,7 +73,8 @@ DEBIAN_FRONTEND=noninteractive apt install -y \
     git \
     rfkill \
     upower \
-    iw
+    iw \
+    ripgrep
 
 # ----------------------------
 # Locale
